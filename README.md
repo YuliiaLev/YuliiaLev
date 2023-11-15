@@ -11,6 +11,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![Gmail Badge](https://img.shields.io/badge/-levitska.yul-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0)
 
 <div align="center">
 </div>
