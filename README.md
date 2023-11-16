@@ -49,10 +49,10 @@ Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thum
 <div align="left">
    
 ### My favorite (QA and programming related) quotes: 
-> - "Testing is the process of trying to break the code".( Anonymous)
-> - “Never allow the same bug to bite you twice.” (Steve Maguire)
-> - “There are two ways to write error-free programs; only the third one works.” (Alan J. Perlis)
+> - "Testing is the process of trying to break the code"(Anonymous)
+> - “Never allow the same bug to bite you twice” (Steve Maguire)
+> - “There are two ways to write error-free programs; only the third one works” (Alan J. Perlis)
 > - ”Testing is like a game of chess, you have to think ahead of the developer" (Huib Schoots)
-> - “Talk is cheap. Show me the code.” (Linus Torvalds)
+> - “Talk is cheap. Show me the code” (Linus Torvalds)
   
 
