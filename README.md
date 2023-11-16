@@ -6,8 +6,8 @@
 
 <div align="center">
   
-## Do you have bugs??![bug-emoji-511x512-9m7t9tpr](https://github.com/YuliiaLev/YuliiaLev/assets/149453666/0fb5a12f-e79f-4f00-9552-ef94647640cc)
-## I'll help you help them??![image_processing20200511-32371-9yh4z4](https://github.com/YuliiaLev/YuliiaLev/assets/149453666/84b41f5f-f24c-410b-b05e-9e9bdda1261c)
+## Do you have bugs?![bug-emoji-511x512-9m7t9tpr](https://github.com/YuliiaLev/YuliiaLev/assets/149453666/0fb5a12f-e79f-4f00-9552-ef94647640cc)
+## I'll help you find them![image_processing20200511-32371-9yh4z4](https://github.com/YuliiaLev/YuliiaLev/assets/149453666/84b41f5f-f24c-410b-b05e-9e9bdda1261c)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-yuliialevytska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
