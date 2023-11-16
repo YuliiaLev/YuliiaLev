@@ -44,7 +44,7 @@ HTML <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html
 Allure <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
 Selenium Webdriver <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/861px-Selenium_Logo.png?20200511151950" width="50" height="50" />  
 &nbsp;
-<img src="https://github.com/YuliiaLev/YuliiaLev/blob/main/PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm"width="65"/>&nbsp;
+<img src="https://github.com/YuliiaLev/YuliiaLev/blob/main/PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm"width="50"/>&nbsp;
 
 <div align="left">
    
