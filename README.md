@@ -10,7 +10,7 @@
 ## I will help solve them??![image_processing20200511-32371-9yh4z4](https://github.com/YuliiaLev/YuliiaLev/assets/149453666/84b41f5f-f24c-410b-b05e-9e9bdda1261c)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![Linkedin Badge](https://img.shields.io/badge/-yuliialevytska-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Gmail Badge](https://img.shields.io/badge/-yuliia.levy-red?style=flat&logo=Gmail&logoColor=white)](mailto:yuliia.levy@gmail.com)
 
 <div align="center">
